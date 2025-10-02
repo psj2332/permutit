@@ -1,4 +1,4 @@
-Here is a program for generating permutations of its arguments (an argument is any command line parameter not interpreted as an option or option argument). When run without options, permutit displays all permutations to the standard output device (normally a screen). Redirection and pipes are supported on Windows, and on POSIX—like operating systems.  
+Here is a program for generating permutations of its arguments (an argument is any command line parameter not interpreted as an option or option—argument). When run without options, permutit displays all permutations to the standard output device (normally a screen). Redirection and pipes are supported on Windows, and on POSIX—like operating systems.  
 
 It is known to build with the Microsoft Visual C++ compiler for Windows and the GNU C compiler for Linux. It'll probably work on anything POSIX with ANSI C.  
 
